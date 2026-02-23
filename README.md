@@ -3,7 +3,7 @@
 MSc Computer Engineering (AI) @ Politecnico di Torino  
 Software Engineer with a strong foundation in Systems & Architecture  
 
-I focus on understanding and building AI systems end-to-end — 
+I focus on understanding and building AI systems end-to-end 
 from mathematical foundations to scalable, production-ready deployments.
 
 ---
@@ -29,15 +29,6 @@ from mathematical foundations to scalable, production-ready deployments.
 
 ---
 
-## Selected Projects
-
-- **Tiny Transformer (From Scratch)** – Manual implementation of self-attention, multi-head attention, and training experiments
-- **AI Inference Benchmarking** – Performance analysis across different hardware and optimization strategies
-- **End-to-End ML Pipeline** – Training, evaluation, and containerized deployment of ML systems
-- **Distributed ML Experiments** – Exploring parallel training and scalable model execution
-
----
-
 ## Technical Stack
 
 **Languages**  
@@ -51,8 +42,3 @@ Linux, Docker, Kubernetes, Git
 Distributed Architectures, REST APIs  
 
 ---
-
-## Long-Term Direction
-
-I’m interested in research-oriented thesis opportunities and projects 
-at the intersection of AI, systems efficiency, and scalable machine learning.
